@@ -1,7 +1,6 @@
 package main
 
-//cd "C:\Users\hp word\Desktop\go-workspace\src\Gin_Gonic_web_Reg"
-// go run main.go
+
 import (
 	"database/sql"
 	"strconv"
